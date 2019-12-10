@@ -1,3 +1,13 @@
+# Projeto de Teste para a Vaga de Frintend - Eicon
+Desenvolvido por Alex Mota
+# Proposta de layout com resuros e tecnologias modernas.
+Principais tecnologias empregadas:
+HTML
+CSS
+Javascript
+Angular 8
+
+
 # Testeeicon
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
